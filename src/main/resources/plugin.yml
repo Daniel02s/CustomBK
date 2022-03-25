@@ -1,0 +1,8 @@
+name: Custombk
+version: '${project.version}'
+main: me.fanta.custombk.Custombk
+api-version: 1.16
+commands:
+  backpack:
+    description: Comando per aprire zaino
+    aliases: [bp, pack]
